@@ -5,4 +5,4 @@ BUTUH LICENSE/PW CHAT TELE GUA
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/RafatharUserbotV4/FlixxPublic/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/FlixxOffc/FlixxPublic/main/install.sh)
